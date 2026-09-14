@@ -1,1 +1,1 @@
-Trying git restore.
+Trying hard and soft reset.
